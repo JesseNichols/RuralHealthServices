@@ -1,0 +1,190 @@
+* {
+     font-family: "San Francisco", "Heveltica-Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    background-color: #837699;
+    color: #ffffff;
+    width: 930px;
+    height: 85px;
+    display: block;
+    float: right;
+    margin: 0px;
+    padding: 0px 30px;
+    line-height: 85px;
+    font-size: 42px;
+    font-weight: normal;
+    box-shadow: 0px 2px 4px 0px #888888;
+}
+
+h2 {
+    background-color: #749079;
+    color: #ffffff;
+    width: auto;
+    height: 85px;
+    display: block;
+    margin: 0px;
+    padding: 0px 30px;
+    line-height: 85px;
+    font-size: 42px;
+    font-weight: normal;
+    box-shadow: 0px 2px 4px 0px #888888;
+}
+
+h3 {
+     font-size: 28px;
+     line-height: 1.25;
+     width: auto;
+     padding: 0px;
+     margin: 15px 0px 0px;
+     color: #555555;
+}
+
+h4 {
+     font-size: 18px;
+     line-height: 1.22;
+     width: auto;
+     padding: 0px;
+     margin: 15px 0px 0px;
+     color: #555555;
+}
+
+p, li {
+     font-size: 16px;
+     line-height: 1.25;
+     width: auto;
+     padding: 0px;
+     margin: 15px 0px 0px;
+     color: #666666;
+     &.faq-question {
+          color: #555555; 
+          font-weight: 800;
+     }
+    &.faq-answer {
+         margin-top: 8px;   
+    }
+}
+
+li {
+     margin-top: 8px;   
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 15px 0px 0px;
+    box-shadow: 0px 2px 4px 0px #888888;
+    tbody {
+         tr {
+              &:hover td {
+                  background-color: #fbfbfb;   
+              }
+              th {
+                  background-color: #f5f5f5;
+                  border: 1px solid #eeeeee;
+                  font-size: 20px;
+                  color: #666666;
+                  font-weight: normal;
+                  padding: 14px 32px;
+                  text-align: left;
+              }
+              td {
+                  cursor: pointer;
+                  background-color: #ffffff;
+                  border: 1px solid #eeeeee;
+                  font-size: 20px;
+                  color: #666666;
+                  padding: 14px 32px;
+                  text-align: left;
+                  &[colspan='3'] {
+                    padding: 14px 32px;
+                    background-color: #f5f5f5;  
+                    font-size: 18px;
+                    line-height: 21px;
+                    color: #888888;
+                  }
+              }
+              &:nth-child(2n-1) {
+                   display: none;   
+              }
+              &:first-child {
+                   display: table-row;   
+              }
+         }
+    }
+}
+
+@media screen and (min-width:321px) and (max-width:768px) {
+    h1 {
+        width: auto;
+        font-size: 25px;
+        line-height: 52px;
+        height: 52px;
+        float: left;
+        background-color: none;
+        box-shadow: none;
+        padding: 0px;
+    }
+    h2 {
+        width: auto;
+        font-size: 25px;
+        line-height: 52px;
+        height: 52px;
+    }
+    td:nth-child(2), th:nth-child(2) {
+         display: none;   
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1000px) {
+    h1 {
+        width: 572px;
+        font-size: 25px;
+        line-height: 52px;
+        height: 52px;
+    }
+    h2 {
+        width: auto;
+        font-size: 25px;
+        line-height: 52px;
+        height: 52px;
+    }
+}
+
+@media screen and (min-width:1001px) and (max-width:1280px) {
+    h1 {
+        width: 650px;
+        font-size: 30px;
+        line-height: 65px;
+        height: 65px;
+    }
+    h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 65px;
+        height: 65px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    h1, h2 {
+        font-size: 20px;
+    }
+    p {
+         font-size: 14px;   
+    }
+    table {
+        tbody {
+            tr {
+                td, th {
+                     font-size: 14px;
+                     padding: 14px 16px;
+                     &[colspan='3'] { 
+                         font-size: 14px;
+                         padding: 14px 16px;
+                     }
+                }
+            }
+        }
+    }
+}
