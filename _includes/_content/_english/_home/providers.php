@@ -86,9 +86,6 @@
         <div class="provider">
             <p><img src="_images/staff/Ballestas.jpg" alt="Maria A. Rodriguez Ballestas, MD"><b>Maria A. Rodriguez Ballestas, MD</b>, completed her residency training in Obstetrics and Gynecology at Cedars Sinai Medical Center in Los Angeles, CA in June 2015. While there, she was elected by her peers and faculty as administrative chief resident. In addition, Dr. Rodriguez was actively involved in numerous research projects that resulted in multiple presentations at national conferences, including posters and oral presentations at ACOG, ASRM and APGO Creog conferences. Her research included patient safety projects on labor and delivery, as well as instituting a Spanish curriculum to training programs. Dr. Rodriguez is fluent in Spanish and completed her medical school training in Colombia, her native country, at the Universidad del Norte, where she graduated with honors. During her time off she enjoys painting and reading as well as traveling. Dr. Rodriguez is extremely dedicated to women's health and while her career has taken her many places, she is now looking forward to settling down in South Carolina. </p>
         </div>
-        <div class="provider">
-            <p><img src="_images/staff/Daniels.jpg" alt="Lloyd B. Daniels, MD"><b>Lloyd B. Daniels, MD</b></p>
-        </div>
     </div>
 </section>
 <section>
