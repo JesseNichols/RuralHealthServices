@@ -21,7 +21,7 @@
                     echo $page_keyword_spanish;    
                 }
             ?></h2>
-            <?php include '_includes/_content/_' . $language . '/_home/employers.php'; ?>
+            <?php include '_includes/_content/_' . $language . '/_home/board.php'; ?>
         </section>
     </main>
     <?php include '_includes/footer.php'; ?>
