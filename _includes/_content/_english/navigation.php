@@ -10,7 +10,7 @@
         <a href="providers.php">
             <li class="providers"><figure></figure><span>Providers</span></li>
         </a>
-        <a href="employers.php">
+        <a href="board.php">
             <li class="board"><figure></figure><span>Board</span></li>
         </a>
         <a href="news.php">
