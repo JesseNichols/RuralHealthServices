@@ -34,7 +34,7 @@
             <h4>Harvey Tollison</h4>
         </div>
         <div class="bio">
-            <img src="_images/staff/Edwards.jpg" alt="Rev Shirley Edwards">
+            <img src="_images/staff/ShirleyEdwards.jpg" alt="Rev Shirley Edwards">
             <h4>Rev Shirley Edwards</h4>
         </div>
         <div class="bio">
