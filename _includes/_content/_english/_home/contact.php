@@ -1,7 +1,7 @@
 <div class="container">
     <div class="location-container" style="padding-top: 16px;">
         <div>
-            <img src="http://placehold.it/600x400" alt="">
+            <img src="_images/contact/ccpc.jpg" alt="Clyburn Center for Primary Care">
             <div>
                 <h4>Clyburn Center for Primary Care</h4>
                 <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.380.7000</p>
@@ -9,7 +9,7 @@
             </div>
         </div>
         <div>
-            <img src="http://placehold.it/600x400" alt="">
+            <img src="_images/contact/mjwchc.jpg" alt="Margaret J Weston Community Health Center">
             <div>
                 <h4>Margaret J Weston Community Health Center</h4>
                 <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.593.9283</p>
@@ -17,7 +17,7 @@
             </div>
         </div>
         <div>
-            <img src="http://placehold.it/600x400" alt="">
+            <img src="_images/contact/fhc.jpg" alt="Family Health Care">
             <div>
                 <h4>Family Health Care</h4>
                 <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.641.1404</p>
