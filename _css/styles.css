@@ -622,4 +622,10 @@ div.provider {
     width: 33%;
     max-width: 150px; }
 
+span.language, span.language_mobile {
+  display: none; }
+
+body {
+  margin: 30px auto; }
+
 /*# sourceMappingURL=styles.css.map */

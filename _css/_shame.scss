@@ -139,3 +139,12 @@ div.provider {
           max-width: 150px;
      }
 }
+
+// Remove this section when Spanish Language translation is restored.
+
+span.language, span.language_mobile {
+    display: none;
+}
+body {
+    margin: 30px auto;
+}
