@@ -10,51 +10,8 @@
                 </tr>
                 <tr>
                     <td>WIC</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 4</td>
-                </tr>
-                <tr>
-                    <td colspan="3">WIC: Every Friday <br>
-8:30 am – 4:30 pm <br>
-Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
-                </tr>
-                <tr>
-                    <td>Teen Clinic</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 9</td>
-                </tr>
-                <tr>
-                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
-4:00 pm -7:00 pm <br>
-Individuals &amp; Groups <br>
-Contact: Jackie Lawrence @(803) 508-7121</td>
-                </tr>
-                <tr>
-                    <td>WIC</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 11</td>
-                </tr>
-                <tr>
-                    <td colspan="3">WIC: Every Friday <br>
-8:30 am – 4:30 pm <br>
-Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
-                </tr>
-                <tr>
-                    <td>Stork's Nest</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 11</td>
-                </tr>
-                <tr>
-                    <td colspan="3">Stork's Nest: Every 2nd Friday <br>
-9:00am - 11:00 am <br>
-Instructor: Marion Gary <br>
-Contact OB/GYN at (803) 380-7104 <br>
-Walk Ins Accepted</td>
-                </tr>
-                <tr>
-                    <td>WIC</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 18</td>
+                    <td>CCPC</td>
+                    <td>May 6</td>
                 </tr>
                 <tr>
                     <td colspan="3">WIC: Every Friday <br>
@@ -63,8 +20,8 @@ Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000
                 </tr>
                 <tr>
                     <td>Look Good Feel Better</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 28</td>
+                    <td>CCPC</td>
+                    <td>May 8</td>
                 </tr>
                 <tr>
                     <td colspan="3">Look Good Feel Better: Every 3rd Monday <br>
@@ -74,14 +31,36 @@ This is a FREE Program from the American Cancer Society designed for women deali
 Contact: Gail B. Diggs @(803) 380-7013)</td>
                 </tr>
                 <tr>
+                    <td>Teen Clinic</td>
+                    <td>CCPC</td>
+                    <td>May 11</td>
+                </tr>
+                <tr>
+                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
+4:00 pm -7:00 pm <br>
+Individuals &amp; Groups <br>
+Contact: Jackie Lawrence @(803) 508-7121</td>
+                </tr>
+                <tr>
                     <td>WIC</td>
-                    <td>Aiken, SC</td>
-                    <td>Mar 25</td>
+                    <td>CCPC</td>
+                    <td>May 13</td>
                 </tr>
                 <tr>
                     <td colspan="3">WIC: Every Friday <br>
 8:30 am – 4:30 pm <br>
 Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
+                </tr>
+                <tr>
+                    <td>Teen Clinic</td>
+                    <td>MJW</td>
+                    <td>May 23</td>
+                </tr>
+                <tr>
+                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
+4:00 pm -7:00 pm <br>
+Individuals &amp; Groups <br>
+Contact: Jackie Lawrence @(803) 508-7121</td>
                 </tr>
             </tbody>
         </table>
