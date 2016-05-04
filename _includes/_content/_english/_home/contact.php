@@ -5,23 +5,23 @@
             <div>
                 <h4>Clyburn Center for Primary Care</h4>
                 <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.380.7000</p>
-                <p>Monday - Thursday<br>8:00 am - 7:00 pm<br>Friday 8:00 am - 5:00 pm</p>
+                <p>Monday - Thursday<br>8:00 am - 7:00 pm<br>Friday<br>8:00 am - 5:00 pm</p>
             </div>
         </div>
         <div>
             <img src="_images/contact/mjwchc.jpg" alt="Margaret J Weston Community Health Center">
             <div>
                 <h4>Margaret J Weston Community Health Center</h4>
-                <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.593.9283</p>
-                <p>Monday - Thursday<br>8:00 am - 7:00 pm<br>Friday 8:00 am - 5:00 pm</p>
+                <p>4645 Augusta Road<br>Beech Island, SC 29842<br>803.593.9283</p>
+                <p>Monday - Friday<br>8:00 am - 5:00 pm</p>
             </div>
         </div>
         <div>
             <img src="_images/contact/fhc.jpg" alt="Family Health Care">
             <div>
                 <h4>Family Health Care</h4>
-                <p>1000 Clyburn Place<br>Aiken, SC 29801<br>803.641.1404</p>
-                <p>Monday - Thursday<br>8:00 am - 7:00 pm<br>Friday 8:00 am - 5:00 pm</p>
+                <p>120 Darlington Drive<br>Aiken, SC 29803<br>803.641.1404</p>
+                <p>Monday - Friday<br>8:00 am - 7:00 pm<br>Friday<br>Closed</p>
             </div>
         </div>
     </div>
