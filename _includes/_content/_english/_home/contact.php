@@ -21,7 +21,7 @@
             <div>
                 <h4>Family Health Care</h4>
                 <p>120 Darlington Drive<br>Aiken, SC 29803<br>803.641.1404</p>
-                <p>Monday - Friday<br>8:00 am - 7:00 pm<br>Friday<br>Closed</p>
+                <p>Monday - Wednesday<br>8:00 am - 7:00 pm<br>Thursday<br>8:00 am - 5:00 pm</p>
             </div>
         </div>
     </div>
