@@ -627,5 +627,8 @@ span.language, span.language_mobile {
 
 body {
   margin: 30px auto; }
+  @media screen and (max-width: 768px) {
+    body {
+      margin-top: 0px; } }
 
 /*# sourceMappingURL=styles.css.map */
