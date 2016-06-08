@@ -96,3 +96,13 @@
         </div>
     </div>
 </section>
+<section>
+    <div class="container">
+        <h3>Optometry</h3>
+        <div class="provider">
+            <p><img src="_images/staff/Fulford.jpg" alt="Michael Fulford, OD"><b>Michael Fulford, OD</b> completed his higher education at Indiana University and Indiana School of Optometry in 1972. After that, he decided to leave his hometown of Indianapolis, Indiana and head for the warmer climate of the southern United States. That journey led him to Aiken, South Carolina where he purchased the optometry practice of Dr. Raymond Kaplan.</p>
+            <p>In 1975, Dr. Fulford built his new office building on Laurens Street and continued to practice optometry for the next 41 years. Proudly in 2016, he has now joined the medical team at Rural Health Services-Clyburn Center for Primary Care’s Optometry Department. He and his staff will continue to serve the Aiken community and meet the medical needs associated with vision health.</p>
+            <p>Dr. Fulford and his wife, Kim, have two children and grandchildren. Dr. Fulford enjoys spending time with his family, volunteering in his community, yardwork and small gardening projects, fishing and an occasional hunting trip.</p>
+        </div>
+    </div>
+</section>
