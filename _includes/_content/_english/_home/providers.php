@@ -48,6 +48,10 @@
             <p><img src="_images/staff/Fischbach.jpg" alt="Gary Fischbach, MD"><b>Gary Fischbach, MD</b> graduated with a Bachelor of Science degree from Washington University in St Louis, Mo. He then attended Georgetown University Medical School in Washington, DC. He completed an Internship and Residency in Internal Medicine at Georgetown, followed by an Ophthalmology residency at the Medical College of Georgia, in Augusta, Ga. He then joined a very busy Family Practice group in Aiken, SC. After a number of years in group practice, he eventually decided to open a solo practice, which became the most rewarding and gratifying period of his career. Dr. Fischbach joined Rural Health Services, Inc. and it is here that he has been able to serve the underserved, providing much needed services to those without many other options.  His hobbies include music and sports.</p>
         </div>
         <div class="provider">
+            <p><img src="_images/staff/Jones.jpg" alt="Kenneth Jones"><b>Dr. Kenneth Jones</b> was born and raised in Palmetto, Florida. He received his undergraduate degree in Chemistry from North Carolina Central University in Durham, North Carolina, his medical degree and did externships at UNC-Chapel Hill and Harvard University. He completed his residency at UCLA King-Drew Medical Center in Los Angeles, California.</p>
+            <p>Dr. Jones’ area of concentrations are family practice, addiction medicine, , HIV Therapy and is DOT certified. He presently resides in Aiken and Charleston, South Carolina.</p>
+        </div>
+        <div class="provider">
             <p><img src="_images/staff/Melendez.jpg" alt="Jene Aurey Melendez FNP-BC"><b>Jene Aurey Melendez FNP-BC</b> is a graduate of Georgetown University Washington, D.C. She is a Board Certified Family Nurse Practitioner. Her hobbies include sewing, crocheting and macramé. She also enjoys, long walks at the beach, traveling and spending time with family. Ms. Melendez is fluent in Spanish.</p>
         </div>
         <div class="provider">
@@ -55,6 +59,9 @@
         </div>
         <div class="provider">
             <p><img src="_images/staff/Weaver.jpg" alt="Abraham Weaver, MSN, NP-C"><b>Abraham Weaver, MSN, NP-C</b> received his Masters of Science degree in Nursing in 2007 and Family Nurse Practitioner Post-Masters Certificate in 2013 from the Medical College of Georgia, now Augusta University.  He also holds a Bachelor of Arts in Music.  His interests include mountain biking, sailing, and playing the guitar.  He loves living life with his wife Stephanie and their 4 girls and three boys. </p>
+        </div>
+        <div class="provider">
+            <p><img src="_images/staff/Gerrald.jpg" alt="Keely Gerrald, MSPAS, PA-C"><b>Keely Gerrald, MSPAS, PA-C</b> was born and raised in Aiken, South Carolina.  She has recently returned to serve at Family Health Care as a Board Certified Physician Assistant.  She attended Clemson University where she completed a Bachelor’s Degree in Biochemistry and a minor in Spanish language.  Keely then completed her medical training at Elon University’s Physician Assistant Program.  She is a National Health Service Corps Scholar.  She enjoys running, reading, time spent at the beach or lake, and walks in Hitchcock Woods.</p>
         </div>
     </div>
 </section>
@@ -103,14 +110,6 @@
             <p><img src="_images/staff/Fulford.jpg" alt="Michael Fulford, OD"><b>Michael Fulford, OD</b> completed his higher education at Indiana University and Indiana School of Optometry in 1972. After that, he decided to leave his hometown of Indianapolis, Indiana and head for the warmer climate of the southern United States. That journey led him to Aiken, South Carolina where he purchased the optometry practice of Dr. Raymond Kaplan.</p>
             <p>In 1975, Dr. Fulford built his new office building on Laurens Street and continued to practice optometry for the next 41 years. Proudly in 2016, he has now joined the medical team at Rural Health Services-Clyburn Center for Primary Care’s Optometry Department. He and his staff will continue to serve the Aiken community and meet the medical needs associated with vision health.</p>
             <p>Dr. Fulford and his wife, Kim, have two children and grandchildren. Dr. Fulford enjoys spending time with his family, volunteering in his community, yardwork and small gardening projects, fishing and an occasional hunting trip.</p>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="container">
-        <h3>Physician Assistant</h3>
-        <div class="provider">
-            <p><img src="_images/staff/Gerrald.jpg" alt="Keely Gerrald, MSPAS, PA-C"><b>Keely Gerrald, MSPAS, PA-C</b> was born and raised in Aiken, South Carolina.  She has recently returned to serve at Family Health Care as a Board Certified Physician Assistant.  She attended Clemson University where she completed a Bachelor’s Degree in Biochemistry and a minor in Spanish language.  Keely then completed her medical training at Elon University’s Physician Assistant Program.  She is a National Health Service Corps Scholar.  She enjoys running, reading, time spent at the beach or lake, and walks in Hitchcock Woods.</p>
         </div>
     </div>
 </section>
