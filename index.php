@@ -21,7 +21,7 @@
     <main>
         <section>
             <div class="hero">
-                <img src="_images/hero.png" alt="">
+                <img src="_images/hero-2.png" alt="">
             </div>
         </section>
         <section>
