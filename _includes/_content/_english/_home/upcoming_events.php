@@ -9,19 +9,31 @@
                     <th>Date</th>
                 </tr>
                 <tr>
-                    <td>WIC</td>
-                    <td>CCPC</td>
-                    <td>May 6</td>
+                    <td>Teen Clinic</td>
+                    <td>MJW</td>
+                    <td>June 27</td>
                 </tr>
                 <tr>
-                    <td colspan="3">WIC: Every Friday <br>
-8:30 am – 4:30 pm <br>
-Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
+                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
+4:00 pm -7:00 pm <br>
+Individuals &amp; Groups <br>
+Contact: Jackie Lawrence @(803) 508-7121</td>
+                </tr>
+                <tr>
+                    <td>Teen Clinic</td>
+                    <td>CCPC</td>
+                    <td>July 13</td>
+                </tr>
+                <tr>
+                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
+4:00 pm -7:00 pm <br>
+Individuals &amp; Groups <br>
+Contact: Jackie Lawrence @(803) 508-7121</td>
                 </tr>
                 <tr>
                     <td>Look Good Feel Better</td>
                     <td>CCPC</td>
-                    <td>May 8</td>
+                    <td>July 18</td>
                 </tr>
                 <tr>
                     <td colspan="3">Look Good Feel Better: Every 3rd Monday <br>
@@ -32,8 +44,8 @@ Contact: Gail B. Diggs @(803) 380-7013)</td>
                 </tr>
                 <tr>
                     <td>Teen Clinic</td>
-                    <td>CCPC</td>
-                    <td>May 11</td>
+                    <td>MJW</td>
+                    <td>July 28</td>
                 </tr>
                 <tr>
                     <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
@@ -41,27 +53,16 @@ Contact: Gail B. Diggs @(803) 380-7013)</td>
 Individuals &amp; Groups <br>
 Contact: Jackie Lawrence @(803) 508-7121</td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <td>WIC</td>
                     <td>CCPC</td>
                     <td>May 13</td>
                 </tr>
                 <tr>
                     <td colspan="3">WIC: Every Friday <br>
-8:30 am – 4:30 pm <br>
-Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
-                </tr>
-                <tr>
-                    <td>Teen Clinic</td>
-                    <td>MJW</td>
-                    <td>May 23</td>
-                </tr>
-                <tr>
-                    <td colspan="3">TEEN CLINIC: Every 2nd Wednesday <br>
-4:00 pm -7:00 pm <br>
-Individuals &amp; Groups <br>
-Contact: Jackie Lawrence @(803) 508-7121</td>
-                </tr>
+                8:30 am – 4:30 pm <br>
+                Please schedule with OB/GYN or Pediatric Front Desk staff or call (803) 380-7000</td>
+                </tr> -->
             </tbody>
         </table>
 </div>
