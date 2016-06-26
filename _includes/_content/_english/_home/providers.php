@@ -61,12 +61,7 @@
             <p><img src="_images/staff/Weaver.jpg" alt="Abraham Weaver, MSN, NP-C"><b>Abraham Weaver, MSN, NP-C</b> received his Masters of Science degree in Nursing in 2007 and Family Nurse Practitioner Post-Masters Certificate in 2013 from the Medical College of Georgia, now Augusta University.  He also holds a Bachelor of Arts in Music.  His interests include mountain biking, sailing, and playing the guitar.  He loves living life with his wife Stephanie and their 4 girls and three boys. </p>
         </div>
         <div class="provider">
-<<<<<<< HEAD
-            <p><img src="_images/staff/Jones.jpg" alt="Kenneth Jones"><b>Kenneth Jones</b> was born and raised in Palmetto, Florida. He received his undergraduate degree in Chemistry from North Carolina Central University in Durham, North Carolina, his medical degree and did externships at UNC-Chapel Hill and Harvard University. He completed his residency at UCLA King-Drew Medical Center in Los Angeles, California.</p>
-            <p>Dr. Jones’ area of concentrations are family practice, addiction medicine, , HIV Therapy and is DOT certified. He presently resides in Aiken and Charleston, South Carolina.</p>
-=======
             <p><img src="_images/staff/Gerrald.jpg" alt="Keely Gerrald, MSPAS, PA-C"><b>Keely Gerrald, MSPAS, PA-C</b> was born and raised in Aiken, South Carolina.  She has recently returned to serve at Family Health Care as a Board Certified Physician Assistant.  She attended Clemson University where she completed a Bachelor’s Degree in Biochemistry and a minor in Spanish language.  Keely then completed her medical training at Elon University’s Physician Assistant Program.  She is a National Health Service Corps Scholar.  She enjoys running, reading, time spent at the beach or lake, and walks in Hitchcock Woods.</p>
->>>>>>> origin/master
         </div>
     </div>
 </section>
