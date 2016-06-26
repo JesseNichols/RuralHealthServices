@@ -1,6 +1,15 @@
 <div class="container">
     <div class="card" style="margin-top: 30px;">
         <div>
+            <a href="http://www.aikenstandard.com/article/20160621/AIK0101/160629922#.V2qGdgkrBBA.yahoomail" target="_blank">
+                <img src="_images/news/main_building_ccpc_building.jpg" alt="">
+                <div>
+                    <h4>Rural Health Services Receives $350,000 in Federal Funding to Expand Oral Health Services</h4>
+                    <p>Date: 06/21/16</p>
+                </div>
+            </a>
+        </div>
+        <div>
             <a href="http://www.aikenstandard.com/article/20151211/AIK0101/151219892#.VrJU2LZDhHA.email" target="_blank">
                 <img src="_images/news/optometrist_joining_rural_health_services_team_at_clyburn_center.jpg" alt="">
                 <div>
