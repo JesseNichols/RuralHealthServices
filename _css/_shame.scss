@@ -147,4 +147,7 @@ span.language, span.language_mobile {
 }
 body {
     margin: 30px auto;
+    @media screen and (min-width: 769px) {
+    margin-top: 0px;
+    }
 }
