@@ -1,18 +1,20 @@
 <div class="container">
     <h3 style="margin-top: 30px;">Open Positions</h3>
     <ul>
+        <li>340B Manager / Pharm Tech</li>
         <li>Certified Medical Assistant</li>
+        <li>Certified Medical Assistant</li>
+        <li>Controller</li>
+        <li>Dental Assistant</li>
+        <li>Dental Hygienist</li>
+        <li>Dental Hygienist</li>
         <li>Dentist</li>
-        <li>Licensed Practical Nurse</li>
-        <li>Licensed Social Worker</li>
-        <li>MD/DO, Family Medicine</li>
-        <li>MD/DO, OB/Gyn</li>
-        <li>Nurse Practitioner</li>
-        <li>Optometrist</li>
-        <li>Optometry Tech</li>
-        <li>Registered Dental Hygienist</li>
-        <li>Registered Dietician</li>
-        <li>Registered Nurse</li>
+        <li>Medical Coder</li>
+        <li>Nurse Practitioner (FAM)</li>
+        <li>Nurse Practitioner (PEDS)</li>
+        <li>Physician (FAM/IM)</li>
+        <li>Physician (PED)</li>
+        <li>Revenue Maximization Manager</li>
     </ul>
     <p>Send resumes to <a href="mailto:careers@ruralhs.org">careers@ruralhs.org</a> or fax them to (803) 380-7039</p>
     <p>For questions concerning available opportunities, call us at (803) 380-7020.</p>
