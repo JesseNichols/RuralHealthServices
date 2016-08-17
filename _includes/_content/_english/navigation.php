@@ -19,7 +19,7 @@
         <a href="contact.php">
             <li class="contact"><figure></figure><span>Contact</span></li>
         </a>
-        <a href="https://aphrodite.ehsmed.com:4443/pls/apex/f?p=2060:LOGIN:0::NO::G_DB_PORTAL_ID:609&tz=-5:00" target="_blank">
+        <a href="https://13265-1.portal.athenahealth.com/" target="_blank">
             <li class="login"><figure></figure><span>Patient Portal</span></li>
         </a>
     </ul>
