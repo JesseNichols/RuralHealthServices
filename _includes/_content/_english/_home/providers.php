@@ -10,9 +10,6 @@
         <p><img src="_images/staff/Fields.jpg" alt="Maya E. Fields, MD"><b>Maya E. Fields, MD</b>, MHA is a native of Charleston, SC and is the only child of Aleatha W. Fields.  She completed her undergraduate and graduate education at the University of South Carolina in Columbia where she received her B.S. in Science in 2003, and her Masters of Hospital Administration in 2005.  She attended the Medical University of South Carolina in Charleston for medical school, and completed her residency training at Georgia Regents University Pediatric Residency Program (formerly Medical College of Georgia).  Dr. Fields enjoys online shopping, bowling, watching movies, watching the Food Network &amp; ID channel, traveling with friends and family, and EATING - especially crab legs!</p> 
      <p>She is excited to be a part of the team at Rural Health Services, Inc. and is looking forward to making an impact through the children of the surrounding community.  GO GAMECOCKS!</p>
     </div>
-    <div class="provider">
-        <p><img src="_images/staff/Gaffney.jpg" alt="Kristin Gaffney, MSPAS, PA-C"><b>Kristin Gaffney, MSPAS, PA-C</b> is a Board Certified Physician Assistant. She earned her Bachelor’s degree in Biology from the University of North Carolina at Charlotte, with a Minor in Dance.  She earned her Master’s degree in Physician Assistant Studies and completed her medical training at the Medical University of South Carolina. She has a boundless enthusiasm for pediatrics and a heart to serve.  Kristin enjoys fine arts, travel, reading, and spending time with her family and friends.</p>
-    </div>
 </div>
 </section>
 <section>
@@ -50,9 +47,6 @@
         <div class="provider">
             <p><img src="_images/staff/Jones.jpg" alt="Kenneth Jones"><b>Dr. Kenneth Jones</b> was born and raised in Palmetto, Florida. He received his undergraduate degree in Chemistry from North Carolina Central University in Durham, North Carolina, his medical degree and did externships at UNC-Chapel Hill and Harvard University. He completed his residency at UCLA King-Drew Medical Center in Los Angeles, California.</p>
             <p>Dr. Jones’ area of concentrations are family practice, addiction medicine, , HIV Therapy and is DOT certified. He presently resides in Aiken and Charleston, South Carolina.</p>
-        </div>
-        <div class="provider">
-            <p><img src="_images/staff/Melendez.jpg" alt="Jene Aurey Melendez FNP-BC"><b>Jene Aurey Melendez FNP-BC</b> is a graduate of Georgetown University Washington, D.C. She is a Board Certified Family Nurse Practitioner. Her hobbies include sewing, crocheting and macramé. She also enjoys, long walks at the beach, traveling and spending time with family. Ms. Melendez is fluent in Spanish.</p>
         </div>
         <div class="provider">
             <p><!--<img src="_images/staff/Parkinson.jpg" alt="Samantha Parkinson, FNP">--><b>Samantha Parkinson, FNP</b> graduated with her B.S. in nursing from Georgia Southern University in 2005.  After working for six years as an ICU nurse, she graduated with her Masters in Nursing as a Family Nurse Practitioner from Georgia Southern in 2011. She worked for 2 years in interventional pain management prior to joining Rural Health Services in 2013. Samantha lives in Augusta and is married with one daughter as well as a dog and a cat. Her interests include cooking, reading, and needlepoint and in her free time she volunteers through the Junior League of Augusta. </p>
