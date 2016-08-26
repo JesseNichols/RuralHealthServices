@@ -1,17 +1,9 @@
 <div class="container">
     <h3 style="margin-top: 30px;">Open Positions</h3>
     <ul>
-        <li>340B Manager / Pharm Tech</li>
         <li>Certified Medical Assistant</li>
-        <li>Certified Medical Assistant</li>
+        <li><a href="http://www.indeed.com/viewjob?jk=9d12fe96fc7ff756&tk=1ar247fndakaub94&from=company" target="_blank">Community Health Worker</a></li>
         <li>Controller</li>
-        <li>Dental Assistant</li>
-        <li>Dental Hygienist</li>
-        <li>Dental Hygienist</li>
-        <li>Dentist</li>
-        <li>Medical Coder</li>
-        <li>Nurse Practitioner (FAM)</li>
-        <li>Nurse Practitioner (PEDS)</li>
         <li>Physician (FAM/IM)</li>
         <li>Physician (PED)</li>
         <li>Revenue Maximization Manager</li>

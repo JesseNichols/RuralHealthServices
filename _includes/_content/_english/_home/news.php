@@ -1,6 +1,15 @@
 <div class="container">
     <div class="card" style="margin-top: 30px;">
         <div>
+            <a href="http://www.aikenstandard.com/article/20160823/AIK0101/160829759#.V72TseAG418.email" target="_blank">
+                <img src="_images/news/main_building_ccpc_building.jpg" alt="">
+                <div>
+                    <h4>Rural Health Sevices Rewarded for Improving Quality of Care</h4>
+                    <p>Date: 08/23/16</p>
+                </div>
+            </a>
+        </div>
+        <div>
             <a href="http://www.aikenstandard.com/article/20160809/AIK0101/160809533#.V6sr4DZjAiw.email" target="_blank">
                 <img src="_images/news/rural_health_services_shows_appreciation_for_community_during_resource_fair.jpg" alt="">
                 <div>
