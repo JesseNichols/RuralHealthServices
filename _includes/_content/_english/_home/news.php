@@ -1,6 +1,15 @@
 <div class="container">
     <div class="card" style="margin-top: 30px;">
         <div>
+            <a href="http://www.aikenstandard.com/article/20160925/AIK0101/160929698#.V-kW9V2mHdk.email" target="_blank">
+                <img src="_images/news/main_building_ccpc_building.jpg" alt="">
+                <div>
+                    <h4>Baldwin Community Room dedicated at Clyburn Center</h4>
+                    <p>Date: 09/26/16</p>
+                </div>
+            </a>
+        </div>
+        <div>
             <a href="http://www.aikenstandard.com/article/20160823/AIK0101/160829759#.V72TseAG418.email" target="_blank">
                 <img src="_images/news/main_building_ccpc_building.jpg" alt="">
                 <div>
